@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <h1>美麗媽的廚房</h1>
+  <h1>美麗媽的秘製食譜</h1>
 
 
 
@@ -16,7 +16,7 @@
 }
     .title-box {
   border-top: 2px solid #e6cfe6;
-  padding: 2px 0;
+  padding: 10px 0;
   margin-bottom: 20px;
 }
 
