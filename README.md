@@ -15,10 +15,9 @@
   display: none;
 }
     .title-box {
-  border-top: 2px solid #b388eb;
-  border-bottom: 2px solid #b388eb;
-  padding: 10px 0;
-  margin-bottom: 2px;
+  border-top: 2px solid #e6cfe6;
+  padding: 5px 0;
+  margin-bottom: 6px;
 }
 
 
