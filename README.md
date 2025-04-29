@@ -119,7 +119,10 @@
 
 <body>
 
-<h1>美麗媽的秘製食譜</h1>
+ <div class="title-box">
+  <h1>美麗媽的廚房</h1>
+</div>
+
 
 <!-- 搜尋欄 -->
 <input type="text" id="searchInput" placeholder="搜尋食譜..." onkeyup="searchRecipes()">
