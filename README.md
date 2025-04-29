@@ -25,7 +25,6 @@
     h1 {
       text-align: center;
       color:rgb(130, 98, 169); /* 灰紫色 */
-      background-color:rgb(230, 223, 251); /* 很淡的紫色背景 */
       padding: 20px;
       border-radius: 12px;
       margin-bottom: 30px;
