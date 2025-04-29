@@ -8,6 +8,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
  
   <style>
+    h1:first-of-type {
+  display: none;
+}
+
     /* 整體頁面設定 */
     body {
       font-family: 'Patrick Hand', '微軟正黑體', sans-serif;
