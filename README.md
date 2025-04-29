@@ -16,7 +16,7 @@
 }
     .title-box {
   border-top: 2px solid #e6cfe6;
-  padding: 27x 0;
+  padding: 20x 0;
   margin-bottom: 20px;
 }
 
