@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>美麗媽的秘製食譜</title>
+ <div class="title-box">
+  <h1>美麗媽的廚房</h1>
+</div>
+
+
   <!-- 引入手寫感字體 -->
 <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
  
@@ -11,6 +15,13 @@
     h1:first-of-type {
   display: none;
 }
+    .title-box {
+  border-top: 2px solid #b388eb;
+  border-bottom: 2px solid #b388eb;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
 
     /* 整體頁面設定 */
     body {
@@ -30,16 +41,7 @@
       margin-bottom: 30px;
       font-size: 36px;
     }
-.title {
-  font-family: 'Caveat', cursive;
-  font-size: 36px;
-  color: #7e57c2; /* 紫色 */
-  border-top: 2px solid #7e57c2;
-  border-bottom: 2px solid #7e57c2;
-  padding: 10px 0;
-  margin: 20px auto;
-  display: inline-block; /* 讓線只跟著文字寬度 */
-}
+
 
     /* 搜尋框設定 */
     #searchInput {
