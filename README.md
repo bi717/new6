@@ -30,6 +30,16 @@
       margin-bottom: 30px;
       font-size: 36px;
     }
+.title {
+  font-family: 'Caveat', cursive;
+  font-size: 36px;
+  color: #7e57c2; /* 紫色 */
+  border-top: 2px solid #7e57c2;
+  border-bottom: 2px solid #7e57c2;
+  padding: 10px 0;
+  margin: 20px auto;
+  display: inline-block; /* 讓線只跟著文字寬度 */
+}
 
     /* 搜尋框設定 */
     #searchInput {
